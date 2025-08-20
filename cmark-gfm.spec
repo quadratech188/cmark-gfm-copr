@@ -3,7 +3,7 @@
 
 Name:           cmark-gfm
 Version:        0.29.0.gfm.13
-Release:        0%{?dist}
+Release:        1%{?dist}
 Summary:        CommonMark parsing and rendering
 
 License:        BSD-2-Clause AND MIT
@@ -107,3 +107,6 @@ This package provides the cmark-gfm library.
 
 
 %changelog
+* Wed Aug 20 2025 Quadratech188 <quadratech188@gmail.com> 0.29.0.gfm.13-1
+- new package built with tito
+
