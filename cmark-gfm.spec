@@ -1,3 +1,5 @@
+# Modified from fedora's [cmark package](https://src.fedoraproject.org/rpms/cmark/blob/rawhide/f/cmark.spec)
+
 # html_normalization and roundtriptest_library failing
 %bcond_with tests
 
