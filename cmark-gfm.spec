@@ -5,7 +5,7 @@
 
 Name:           cmark-gfm
 Version:        0.29.0.gfm.13
-Release:        2%{?dist}
+Release:        3%{?dist}
 Summary:        CommonMark parsing and rendering
 
 License:        BSD-2-Clause AND MIT
@@ -109,6 +109,10 @@ This package provides the cmark-gfm library.
 
 
 %changelog
+* Tue Nov 04 2025 Quadratech188 <quadratech188@gmail.com> 0.29.0.gfm.13-3
+- Specify original spec source (quadratech188@gmail.com)
+- Support Fedora 43
+
 * Wed Aug 20 2025 Quadratech188 <quadratech188@gmail.com> 0.29.0.gfm.13-2
 - Auto-rebuild test
 
